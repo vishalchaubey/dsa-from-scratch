@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IfElseWhileFor",
+            "request": "launch",
+            "mainClass": "controlFlow.IfElseWhileFor",
+            "projectName": "dsa-from-scratch_1f580b76"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
